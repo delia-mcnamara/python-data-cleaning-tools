@@ -5,3 +5,4 @@ A collection of python code snippets for cleaning and combining files from templ
 Data import & export:
 - [Import & export a single file to/from a certain file path](data-import-export-from-folder-singlefile/)
 - [Import & combine multiple files from a certain file path](data-import-combine-from-folder-multifile/)
+- [Clean & export files from one subfolder to another](data-clean-export-from-folder-multifile/)
