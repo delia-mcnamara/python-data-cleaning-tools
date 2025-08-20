@@ -10,3 +10,4 @@ Data import & export:
 Template data cleaning: reformatting
 - [Convert date to object, assign to each field, add to cleaned file name](date-to-column-filename/)
 - [Combine split template with repeat columns into single dataframe](split-columns-combine/)
+- [Remove fields based on string contents of one column](remove-fields-by-string-id/)
