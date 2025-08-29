@@ -1,0 +1,5 @@
+sector,id,,loc_1,loc_2,number,,letter_1,color,count_1,count_2
+hq,P1.1,,north,up,1,,a,red,24,156
+hq,P1.2,blank,south,down,2,,b,orange,32,213
+labor,P1.3,,east,left,3,blank,c,yellow,52,783
+labor,P1.4,,west,right,4,,d,green,30,298
