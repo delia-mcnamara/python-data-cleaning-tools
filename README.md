@@ -10,7 +10,7 @@ Data import & export:
 - [Import & combine multiple files from a certain file path](data-import-combine-from-folder-multifile/)
 - [Clean & export files from one subfolder to another](data-clean-export-from-folder-multifile/)
 
-Template data cleaning: reformatting
+Template data cleaning
 - [Convert date to object, assign to each field, add to cleaned file name](date-to-column-filename/)
 - [Combine split template with repeat columns into single dataframe](split-columns-combine/)
 - [Drop columns in template not needed](keep-only-columns-needed/)
