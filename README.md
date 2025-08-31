@@ -2,7 +2,7 @@
 ## About
 A collection of python code snippets for cleaning and combining files from templates, combining and transforming large datasets, and cleaning large datasets. All snippets are sourced from a larger data cleaning and combination project- snippets use smaller datasets containing the root issue addressed in the snippet. All notebooks and reference data files are stored here for reference.
 
-Template data cleaning category also includes a program to customize & combine template cleaning snippets in a Linux environment for easy use- coauthored with [David Vogel](https:/github.com/davidvogelxyz).
+Template data cleaning category also includes a program to customize & combine template cleaning snippets in a Linux environment for easy use- coauthored with [David Vogel](https://github.com/davidvogelxyz).
 
 ## Snippets by category
 Data import & export:
