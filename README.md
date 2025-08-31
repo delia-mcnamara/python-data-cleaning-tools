@@ -14,6 +14,7 @@ Template data cleaning
 - [Convert date to object, assign to each field, add to cleaned file name](date-to-column-filename/)
 - [Combine split template with repeat columns into single dataframe](split-columns-combine/)
 - [Drop columns in template not needed](keep-only-columns-needed/)
+- [Standardize categorical data labels](standardize-data-labels/)
 - [Template data cleaning Linux program](main.py)
 
 Dataset cleaning: filtering
