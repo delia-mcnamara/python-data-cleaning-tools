@@ -1,9 +1,9 @@
-Metadata,,,Part 1,,,,Part 2,,,,
-sector,delete,department,id,count_1,count_2,,id,count_1,count_2,,
-advertising,,adsales,127.8081,1864,1864,,127.8081,1864,1864,,thresholds
-advertising,,adsales,127.8084,905,905,,127.8084,905,905,,100
-advertising,,adsales,127.8103,777,777,,127.8103,777,777,,500
-advertising,,marketing,129.0056,10234,10234,,129.0056,10234,10234,,1000
-advertising,,marketing,129.0348,280108,280108,,129.0348,280108,280108,,
-administrative,,purchasing,110.6593,335,335,,110.6593,335,335,,
-,,,Date,11/29/2023,,,,,,,
+Metadata,,,Part 1,,,,Part 2,,,
+sector,delete,department,id,count_1,count_2,,count_1,count_2,,
+advertising,,adsales,127.8081,1864,1864,,1964,32829237,,thresholds
+advertising,,adsales,127.8084,905,905,,303,3298,,100
+advertising,,adsales,127.8103,777,777,,832,32,,500
+advertising,,marketing,129.0056,10234,10234,,12091290,2912,,1000
+advertising,,marketing,129.0348,280108,280108,,438,409,,
+administrative,,purchasing,110.6593,335,335,,129898,1209,,
+,,,Date,11/29/2023,,,,,,
